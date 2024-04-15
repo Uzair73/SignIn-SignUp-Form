@@ -29,5 +29,5 @@ thisForm.addEventListener('submit', async function (e) {
 
     const result = await response.json();
     console.log(result)
-    window.location.href = 'https://www.ilmkidunya.com/11th-class/notes/biology-federal-board#google_vignette'
+    window.location.href = 'https://www.ilmkidunya.com/10th-class/notes.aspx'
 });
